@@ -1,0 +1,15 @@
+======================== local ==============================
+
+image_url="http://127.0.0.1:30101/image"
+document_url="http://127.0.0.1:30101/document"
+logo_url="http://127.0.0.1:30101/logo"
+font_url="http://localhost:3000/password-change"
+
+
+
+============================ server ===============================
+
+image_url="https://nettruxbackend.elvirainfotech.org/image"
+document_url="https://nettruxbackend.elvirainfotech.org/document"
+logo_url="https://nettruxbackend.elvirainfotech.org/logo"
+font_url="https://nettrux.elvirainfotech.org/password-change"
